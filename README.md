@@ -17,4 +17,4 @@ Hi! My name is Gabriel and I'm a rising Senior studying Computer Science @ Colum
 | ------------ | ------------ | ---- | ------- |
 | <img src="https://es.logodownload.org/wp-content/uploads/2019/07/amazon-logo-81.png" height="50"> | Amazon | Jun 2024 - Aug 2024 | Software Development Engineering Intern |
 | <img src="https://performance.btgpactual.com/app/index_files/logo_btg_azul.png" height="50"> | BTG Pactual | Jun 2023 - Aug 2023 | Summer Analyst (Technology) |
-| <img src="https://logos-download.com/wp-content/uploads/2020/06/Columbia_University_Logo.png" height="80"> | Columbia University | Sep 2022 - Present | Course Assistant (COMS 4701 Artificial Intelligence, COMS 3203 Discrete Math)
+| <img src="https://logos-download.com/wp-content/uploads/2020/06/Columbia_University_Logo.png" height="80"> | Columbia University | Sep 2022 - Present | Course Assistant (COMS 4231 Analysis of Algorithms I, COMS 4701 Artificial Intelligence, COMS 3203 Discrete Math)
