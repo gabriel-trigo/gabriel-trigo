@@ -10,7 +10,7 @@ Hi! My name is Gabriel and I'm a rising Senior studying Computer Science @ Colum
 
 ## About
 - I am a rising senior studying Computer Science at Columbia University. My graduation date is **May 2025**.
-- I am a **Brazilian** 🇧🇷 and **Italian** 🇮🇹 citizen. In the US, I'm a student on an F-1 Visa. I am authorized to work through CPT (during degree) and OPT (post graduation).
+- I am a **Brazilian** 🇧🇷 and **Italian** 🇮🇹 citizen. In the US, I'm a student on an F-1 Visa. I'm authorized to work through CPT (during degree) and OPT (post graduation).
 
 ## Work Experience
 | Logo | Company | Date | Position |
