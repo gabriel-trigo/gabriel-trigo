@@ -8,10 +8,3 @@ You can click the Preview link to take a look at your changes.
 
 ## About
 Hi! My name is Gabriel and I'm a Senior studying Computer Science @ Columbia University. My graduation date is **May 2025**
-
-## Work Experience
-| Logo | Company | Date | Position |
-| ------------ | ------------ | ---- | ------- |
-| <img src="https://es.logodownload.org/wp-content/uploads/2019/07/amazon-logo-81.png" height="50"> | Amazon | Incoming July 2025 | Software Development Engineer |
-| <img src="https://es.logodownload.org/wp-content/uploads/2019/07/amazon-logo-81.png" height="50"> | Amazon | Jun 2024 - Aug 2024 | Software Development Engineering Intern |
-| <img src="https://logos-download.com/wp-content/uploads/2020/06/Columbia_University_Logo.png" height="80"> | Columbia University | Sep 2022 - Present | Course Assistant (COMS 4231 Analysis of Algorithms I, COMS 4111 Intro. Databases, COMS 4701 Artificial Intelligence, COMS 3203 Discrete Math)
