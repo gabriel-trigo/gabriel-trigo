@@ -1,6 +1,6 @@
 # Hello
 
-I'm a software engineer interested in building well-designed, large-scale systems and contributing to impactful projects. I graduated in May 2025 from Columbia University (undergrad), majored in Computer Science.
+I'm Gabriel. I'm a Software Engineer in NYC. Previously, I graduated in May 2025 from Columbia University with a B.S. in Computer Science.
 
 ## Work experience:
 - Incoming Full Time Software Engineer @ Amazon (July 2025, New York)
