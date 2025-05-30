@@ -30,7 +30,6 @@ I'm a software engineer interested in building well-designed, large-scale system
 
   My contributions: the documentation for the reinforcement learning module.
 ---
-https://github.com/GitWyd/sbsim_documentation
 
 ## 📫 Get in Touch
 
@@ -39,7 +38,3 @@ https://github.com/GitWyd/sbsim_documentation
 [![Email](https://img.shields.io/badge/Email-gabriel%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel@example.com)
 
 ---
-
-🧠 *Interested in distributed systems, cloud computing, and AI infrastructure.*
-
-📍 *Based in NYC | Open to collaboration and learning opportunities.*
